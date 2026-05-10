@@ -1,3 +1,7 @@
+v1.3
+  - Improve device selection logic.
+    Cover more invalid value return from macOS during auto device selection.
+
 v1.2
    - Migrate VapourSynth plugin to API v4
    - Remove legacy Visual Studio and Travis CI files
