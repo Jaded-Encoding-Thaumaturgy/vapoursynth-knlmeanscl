@@ -3,7 +3,7 @@ project(
   'cpp',
   default_options: ['cpp_std=c++14', 'buildtype=release'],
   license: 'GPL-3',
-  version: '1.2',
+  version: '1.3',
 )
 
 version_parts = meson.project_version().split('.')
